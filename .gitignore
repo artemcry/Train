@@ -1,0 +1,10 @@
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+save
+VirtualButtonsScripts.csproj
+UserSettings
+Temp
+obj
+Logs
+Library
